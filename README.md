@@ -11,5 +11,5 @@ What you need to do before you start the program:
  Make a folder called notes
 Because all the files you create will go inside this folder.
 
-If there is a new issue please publish your isues's.
-😄😄😄😄
+If there is a new issue please publish your issues's.
+😄😄😄😄😊😊😊😊
